@@ -79,6 +79,7 @@ while True:
     
     else:
          print('Opção inválida, tente uma opção válida.')
+         
     
 
 
